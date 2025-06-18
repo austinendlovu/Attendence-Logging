@@ -1,6 +1,3 @@
-Here’s the structured and edited `README.md` for the **Access Attendance System**, matching the format of your previous project README:
-
----
 
 # Access Attendance System – Automated Time Tracking Solution
 
